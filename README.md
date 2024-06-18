@@ -1,7 +1,14 @@
 # EcoRacer-Edge
 
+# Integrantes do Projeto
+Maria Clara - RM: 557478
+Lorran do Santos - RM: 558982
+Gabriel Caetano - RM: 557582
+Leonardo Baldaia - RM: 557416
+
+
 # Vídeo Explicativo
-<a target="_blank" href="https://youtu.be/">Assista o vídeo para mais informações!</a>
+<a target="_blank" href="https://youtu.be/4FuT5hOAD0Q?si=sRl3usUMDDWZDsdh">Assista o vídeo para mais informações!</a>
 
 # Protótipo no Wokwi
-<a target="_blank" href=""> Clique aqui para acessar o Wokwi</a>
+<a target="_blank" href="https://wokwi.com/projects/400995583934192641"> Clique aqui para acessar o Wokwi</a>
