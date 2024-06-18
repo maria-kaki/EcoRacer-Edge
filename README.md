@@ -18,4 +18,4 @@ Veja o vídeo no final da página, para mais informações!
 <a target="_blank" href="https://youtu.be/4FuT5hOAD0Q?si=sRl3usUMDDWZDsdh">Assista o vídeo para mais informações!</a>
 
 ## Protótipo no Wokwi
-<a target="_blank" href="https://wokwi.com/projects/400995583934192641"> Clique aqui para acessar o Wokwi</a>
+<a target="_blank" href="https://wokwi.com/projects/400996407434475521"> Clique aqui para acessar o Wokwi</a>
