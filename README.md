@@ -1,10 +1,10 @@
 # EcoRacer-Edge
 
 # Integrantes do Projeto
-Maria Clara - RM: 557478
-Lorran do Santos - RM: 558982
-Gabriel Caetano - RM: 557582
-Leonardo Baldaia - RM: 557416
+  Maria Clara - RM: 557478
+  Lorran do Santos - RM: 558982
+  Gabriel Caetano - RM: 557582
+  Leonardo Baldaia - RM: 557416
 
 
 # Vídeo Explicativo
